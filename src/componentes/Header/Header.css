@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(45, 45, 112);
+    text-align: center;
+}
+.header img{
+   width: 60%;
+   height: 300px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   
+}
